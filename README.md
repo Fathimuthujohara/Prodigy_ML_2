@@ -1,6 +1,6 @@
-# Housing Price Prediction Case Study
+# Housing Price Prediction
 
-## Multiple Linear Regression
+## Linear Regression
 
 ### Overview
 
